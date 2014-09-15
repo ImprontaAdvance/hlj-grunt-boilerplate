@@ -1,0 +1,26 @@
+HTML-LESS-JavaScript Grunt Boilerplate
+======================================
+
+**How to install**
+```
+    npm install
+    grunt
+```
+
+
+**Where put your files**
+```
+    .
+    ├── .ftppass ← Servers password for automatic deploy
+    ├── dist ← 'Compiled' files ready for browsers
+    ├── Gruntfile.js
+    ├── LICENSE
+    ├── package.json
+    ├── README
+    └── src
+        ├── css ← Your main.less
+        ├── data.json ← Your app data
+        ├── index.hbs
+        ├── js ← Your main.js
+        └── partials ← Your partials view
+```
